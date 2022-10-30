@@ -4,17 +4,7 @@
 
 <h2>Pages:</h2>
 
-<h2 align="center">Desktop & Tablet Versions:</h2>
-<p align="center"><img src="demo/full-desktop.png" height="550px"/>&nbsp;<img src="demo/full-tablet.png" height="550px"/></p>
-
-<hr>
-
-<h2 align="center">Mobile Version:</h2>
-
-<p align="center">
-<br/>
-<img src="demo/full-mobile.png" height="550px"/>&nbsp;<img src="demo/navbar-mobile.png" height="550px"/>
-</p>
+<p align="center"><img src="demo/demo-gradient/1.png" alt="demo-gradient/1.png must be here"><img src="demo/demo-gradient/2.png" alt="demo-gradient/2.png must be here"><img src="demo/demo-gradient/3.png" alt="demo-gradient/3.png must be here"><img src="demo/demo-gradient/4.png" alt="demo-gradient/4.png must be here"><img src="demo/demo-gradient/5.png" alt="demo-gradient/5.png must be here"><img src="demo/demo-gradient/6.png" alt="demo-gradient/6.png must be here"><img src="demo/demo-gradient/7.png" alt="demo-gradient/7.png must be here"></p>
 
 <h2>Usage: </h2>
 
